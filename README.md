@@ -1,4 +1,4 @@
-Here is a sample README file for your Django APIView that processes CSV uploads with serializer validation:
+
 
 ***
 
