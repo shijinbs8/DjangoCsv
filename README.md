@@ -74,9 +74,5 @@ Example response:
 - `validate_email`: Checks uniqueness and valid format.
 - `validate_age`: Confirms age is an int from 0 to 120.
 
-## Customization
 
-Modify the serializer and view code to suit your data model or validation rules.
-
-## License
 
